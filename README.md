@@ -47,16 +47,16 @@
 <br />
 <h2><a name = "Title3"> 3. Support Documentation </a></h2>
 
->[Google Drive]()
+>[Google Drive](https://drive.google.com/drive/folders/1xPolwAGqR_qWSHqXM2gvVsUJBV-ruZfp)
 
 **Statement of Work**
 
->[Statement of Work]() <br />
+>[Statement of Work](https://drive.google.com/open?id=1n0SP8Q7F2uENpcblw3nu9shsPnY4Ay39uC-hF4vUuWY) <br />
 
 **Team Communication**
 
->[Slack]() <br />
->[Meeting Minutes]() <br />
+>[Slack](https://anuappffarmbot.slack.com/messages/CGHMVT15J/) <br />
+>[Meeting Minutes](https://drive.google.com/drive/folders/1__hqQ13RdUnUdTPkrGXzGocOrMKA_yGB) <br />
 
 **Team Progress Tracking**
 
